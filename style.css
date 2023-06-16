@@ -221,6 +221,10 @@ main {
   height: 20px;
   border: 1px solid var(--Very-Light-Magenta);
   border-radius: 50%;
+  cursor: pointer;
+}
+.chat-page .booking-chat .circle-span:hover {
+  background-color: var(--light-gray);
 }
 .booking-chat .time {
   font-size: 0.8rem;
