@@ -265,6 +265,7 @@ main {
   height: 15px;
   background-color: var(--White);
   clip-path: polygon(57% 0, 100% 50%, 62% 100%, 41% 100%, 81% 49%, 38% 0);
+  cursor: pointer;
 }
 /*** Heading of the page  */
 
